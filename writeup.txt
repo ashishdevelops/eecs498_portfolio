@@ -1,0 +1,45 @@
+Custom Object and Interaction - Trashketball
+
+Our custom object is an object inspired by a game played in our middle 
+
+school classroom called trashketball. It is a game where students would 
+
+shoot pieces of garbage into a recycling bin for points, typically done as 
+
+part of an in-class competition to make exam reviews more exciting (for 
+
+whatever reason). Our object is a combination of a printer and a trash can 
+
+with a backboard, all of which serve a purpose in our minigame.
+
+The minigame is passive and is always available to play. The player's goal 
+
+is to throw the trash into the bin. When you throw a trash object into the 
+
+bin, the lights on the backboard glow green. After making a basket, the 
+
+printer creates a piece of trash and throws it at the player who can try 
+
+to catch it in air or will have to pick it up afterwards (to be thrown 
+
+again if the player chooses). The complete "scoring then printing" action 
+
+is repeatable so the game can be played indefinitely.
+
+Throughout the course of the game, the game's object keeps track of the 
+
+number of baskets made by the player and will display this after each 
+
+basket. The game also displays the distance of the throw, which is used as 
+
+the player's current score. The farthest distance the player has managed 
+
+to make a goal is tracked as the player's high score. This allows the 
+
+player to keep improving their trashketball skills.
+
+Project Sites:
+
+AkashN7.github.io
+
+Ashish Patel: https://ashishdevelops.github.io/eecs498_portfolio/
